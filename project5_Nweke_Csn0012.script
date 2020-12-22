@@ -1,0 +1,27 @@
+Script started on 2020-11-12 01:47:31-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="198" LINES="9"]
+]0;christobel@christobel-VirtualBox: ~/projects/project5[01;32mchristobel@christobel-VirtualBox[00m:[01;34m~/projects/project5[00m$ ./project5_Nweke_Csn0012
+Banner id: 903980089
+producer produce item 7
+consumer consume item 7
+producer produce item 14
+consumer consume item 14
+producer produce item 21
+consumer consume item 21
+producer produce item 28
+consumer consume item 28
+producer produce item 35
+consumer consume item 35
+producer produce item 42
+consumer consume item 42
+producer produce item 49
+consumer consume item 49
+producer produce item 56
+consumer consume item 56
+producer produce item 63
+consumer consume item 63
+producer produce item 70
+consumer consume item 70
+]0;christobel@christobel-VirtualBox: ~/projects/project5[01;32mchristobel@christobel-VirtualBox[00m:[01;34m~/projects/project5[00m$ exit
+exit
+
+Script done on 2020-11-12 01:47:53-06:00 [COMMAND_EXIT_CODE="0"]
